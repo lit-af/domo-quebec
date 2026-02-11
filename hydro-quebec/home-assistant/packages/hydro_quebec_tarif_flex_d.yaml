@@ -30,7 +30,7 @@ template:
             {% endif %}
           {% endif %}
   - sensor:
-      - name: "Hydro-Québec - Économie projeté"
+      - name: "Hydro-Québec - Économies projetées Flex D"
         unit_of_measurement: "$"
         device_class: monetary
         state_class: total
